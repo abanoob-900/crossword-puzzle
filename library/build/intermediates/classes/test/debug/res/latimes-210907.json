@@ -1,0 +1,1570 @@
+{
+  "title": "L. A. Times, Tue, Sep 7, 2021",
+  "description": "",
+  "copyright": "© 2021 Tribune Content Agency, LLC",
+  "author": "Rich Proulx / Ed. Rich Norris",
+  "attributions": "",
+  "locale": "en-US",
+  "puzzleType": "CROSSWORD",
+  "srcFileName": "tca210907.jpz",
+  "creationTime": 1628709183598,
+  "modifiedTime": 1628709183598,
+  "publishTime": 1630987200000,
+  "publishTimeZone": "America/New_York",
+  "w": 15,
+  "h": 15,
+  "placedWords": [
+    {
+      "word": "ATOZ",
+      "originalTerm": "ATOZ",
+      "nBoxes": 4,
+      "x": 0,
+      "y": 0,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 1,
+      "clue": {
+        "date": 0,
+        "clue": "All-inclusive",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "STAMP",
+      "originalTerm": "STAMP",
+      "nBoxes": 5,
+      "x": 5,
+      "y": 0,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 5,
+      "clue": {
+        "date": 0,
+        "clue": "Inked indication of approval",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ENOS",
+      "originalTerm": "ENOS",
+      "nBoxes": 4,
+      "x": 11,
+      "y": 0,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 10,
+      "clue": {
+        "date": 0,
+        "clue": "Son of Seth who lived to 905, per the Bible",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "NOTI",
+      "originalTerm": "NOTI",
+      "nBoxes": 4,
+      "x": 0,
+      "y": 1,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 14,
+      "clue": {
+        "date": 0,
+        "clue": "\"Moi? Never!\"",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "HOVER",
+      "originalTerm": "HOVER",
+      "nBoxes": 5,
+      "x": 5,
+      "y": 1,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 15,
+      "clue": {
+        "date": 0,
+        "clue": "Hang in midair",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "CABO",
+      "originalTerm": "CABO",
+      "nBoxes": 4,
+      "x": 11,
+      "y": 1,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 16,
+      "clue": {
+        "date": 0,
+        "clue": "__ San Lucas: Baja resort",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "NOOR",
+      "originalTerm": "NOOR",
+      "nBoxes": 4,
+      "x": 0,
+      "y": 2,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 17,
+      "clue": {
+        "date": 0,
+        "clue": "Queen dowager of Jordan",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ARENA",
+      "originalTerm": "ARENA",
+      "nBoxes": 5,
+      "x": 5,
+      "y": 2,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 18,
+      "clue": {
+        "date": 0,
+        "clue": "Sports stadium",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "OTIS",
+      "originalTerm": "OTIS",
+      "nBoxes": 4,
+      "x": 11,
+      "y": 2,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 19,
+      "clue": {
+        "date": 0,
+        "clue": "Singer Redding with two posthumous Grammys",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ELECTRICAVENUE",
+      "originalTerm": "ELECTRICAVENUE",
+      "nBoxes": 14,
+      "x": 0,
+      "y": 3,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 20,
+      "clue": {
+        "date": 0,
+        "clue": "Street in London\u0027s Brixton Market",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        14
+      ],
+      "intersects": false
+    },
+    {
+      "word": "OOP",
+      "originalTerm": "OOP",
+      "nBoxes": 3,
+      "x": 3,
+      "y": 4,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 23,
+      "clue": {
+        "date": 0,
+        "clue": "Caveman Alley",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        3
+      ],
+      "intersects": false
+    },
+    {
+      "word": "DOORS",
+      "originalTerm": "DOORS",
+      "nBoxes": 5,
+      "x": 9,
+      "y": 4,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 24,
+      "clue": {
+        "date": 0,
+        "clue": "Ways in or out",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "FRONTENTRANCE",
+      "originalTerm": "FRONTENTRANCE",
+      "nBoxes": 13,
+      "x": 0,
+      "y": 5,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 25,
+      "clue": {
+        "date": 0,
+        "clue": "Usual way in",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        13
+      ],
+      "intersects": false
+    },
+    {
+      "word": "EEO",
+      "originalTerm": "EEO",
+      "nBoxes": 3,
+      "x": 0,
+      "y": 6,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 31,
+      "clue": {
+        "date": 0,
+        "clue": "Fair-hiring abbr.",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        3
+      ],
+      "intersects": false
+    },
+    {
+      "word": "EIEIO",
+      "originalTerm": "EIEIO",
+      "nBoxes": 5,
+      "x": 4,
+      "y": 6,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 32,
+      "clue": {
+        "date": 0,
+        "clue": "\"Old MacDonald\" refrain",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "SAHIB",
+      "originalTerm": "SAHIB",
+      "nBoxes": 5,
+      "x": 10,
+      "y": 6,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 33,
+      "clue": {
+        "date": 0,
+        "clue": "Indian title",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "LAZE",
+      "originalTerm": "LAZE",
+      "nBoxes": 4,
+      "x": 0,
+      "y": 7,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 36,
+      "clue": {
+        "date": 0,
+        "clue": "Do little",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "SWEAR",
+      "originalTerm": "SWEAR",
+      "nBoxes": 5,
+      "x": 5,
+      "y": 7,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 38,
+      "clue": {
+        "date": 0,
+        "clue": "Take an oath",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "RIDE",
+      "originalTerm": "RIDE",
+      "nBoxes": 4,
+      "x": 11,
+      "y": 7,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 40,
+      "clue": {
+        "date": 0,
+        "clue": "Travel by Greyhound, say",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "TREYS",
+      "originalTerm": "TREYS",
+      "nBoxes": 5,
+      "x": 0,
+      "y": 8,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 41,
+      "clue": {
+        "date": 0,
+        "clue": "Three-pointers, in hoops lingo",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "MILOS",
+      "originalTerm": "MILOS",
+      "nBoxes": 5,
+      "x": 6,
+      "y": 8,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 43,
+      "clue": {
+        "date": 0,
+        "clue": "\"Amadeus\" director Forman",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "KIN",
+      "originalTerm": "KIN",
+      "nBoxes": 3,
+      "x": 12,
+      "y": 8,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 45,
+      "clue": {
+        "date": 0,
+        "clue": "Cuz and sis",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        3
+      ],
+      "intersects": false
+    },
+    {
+      "word": "DEADENDSTREET",
+      "originalTerm": "DEADENDSTREET",
+      "nBoxes": 13,
+      "x": 2,
+      "y": 9,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 46,
+      "clue": {
+        "date": 0,
+        "clue": "Where it\u0027s hard to make a wrong turn",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        13
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ACTII",
+      "originalTerm": "ACTII",
+      "nBoxes": 5,
+      "x": 1,
+      "y": 10,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 49,
+      "clue": {
+        "date": 0,
+        "clue": "When \"light through yonder window breaks\" in \"Romeo and Juliet\"",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "IOU",
+      "originalTerm": "IOU",
+      "nBoxes": 3,
+      "x": 9,
+      "y": 10,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 50,
+      "clue": {
+        "date": 0,
+        "clue": "Poker pot paper",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        3
+      ],
+      "intersects": false
+    },
+    {
+      "word": "SHELTERINPLACE",
+      "originalTerm": "SHELTERINPLACE",
+      "nBoxes": 14,
+      "x": 1,
+      "y": 11,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 51,
+      "clue": {
+        "date": 0,
+        "clue": "Way to stay safe ... or what each set of circles represents vis-à-vis its answer",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        14
+      ],
+      "intersects": false
+    },
+    {
+      "word": "PDAS",
+      "originalTerm": "PDAS",
+      "nBoxes": 4,
+      "x": 0,
+      "y": 12,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 58,
+      "clue": {
+        "date": 0,
+        "clue": "Mall smooching, etc., initially",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "TRITE",
+      "originalTerm": "TRITE",
+      "nBoxes": 5,
+      "x": 5,
+      "y": 12,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 59,
+      "clue": {
+        "date": 0,
+        "clue": "Lacking originality",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "EGOS",
+      "originalTerm": "EGOS",
+      "nBoxes": 4,
+      "x": 11,
+      "y": 12,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 60,
+      "clue": {
+        "date": 0,
+        "clue": "Qualities that make deals difficult",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "TORT",
+      "originalTerm": "TORT",
+      "nBoxes": 4,
+      "x": 0,
+      "y": 13,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 61,
+      "clue": {
+        "date": 0,
+        "clue": "Legal wrong",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "OASES",
+      "originalTerm": "OASES",
+      "nBoxes": 5,
+      "x": 5,
+      "y": 13,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 62,
+      "clue": {
+        "date": 0,
+        "clue": "Desert respites",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "REAP",
+      "originalTerm": "REAP",
+      "nBoxes": 4,
+      "x": 11,
+      "y": 13,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 63,
+      "clue": {
+        "date": 0,
+        "clue": "Use a scythe on",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "AIMS",
+      "originalTerm": "AIMS",
+      "nBoxes": 4,
+      "x": 0,
+      "y": 14,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 64,
+      "clue": {
+        "date": 0,
+        "clue": "Targets",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "STEMS",
+      "originalTerm": "STEMS",
+      "nBoxes": 5,
+      "x": 5,
+      "y": 14,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 65,
+      "clue": {
+        "date": 0,
+        "clue": "Flower holders",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "SEXY",
+      "originalTerm": "SEXY",
+      "nBoxes": 4,
+      "x": 11,
+      "y": 14,
+      "acrossNotDown": true,
+      "direction": "E",
+      "clueSection": "Across",
+      "clueNum": 66,
+      "clue": {
+        "date": 0,
+        "clue": "Hot",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ANNE",
+      "originalTerm": "ANNE",
+      "nBoxes": 4,
+      "x": 0,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 1,
+      "clue": {
+        "date": 0,
+        "clue": "Frank with a diary",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "TOOL",
+      "originalTerm": "TOOL",
+      "nBoxes": 4,
+      "x": 1,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 2,
+      "clue": {
+        "date": 0,
+        "clue": "Hammer or sickle",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "OTOE",
+      "originalTerm": "OTOE",
+      "nBoxes": 4,
+      "x": 2,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 3,
+      "clue": {
+        "date": 0,
+        "clue": "Midwest native",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ZIRCON",
+      "originalTerm": "ZIRCON",
+      "nBoxes": 6,
+      "x": 3,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 4,
+      "clue": {
+        "date": 0,
+        "clue": "Alphabetically last birthstone",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        6
+      ],
+      "intersects": false
+    },
+    {
+      "word": "SHARPEIS",
+      "originalTerm": "SHARPEIS",
+      "nBoxes": 8,
+      "x": 5,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 5,
+      "clue": {
+        "date": 0,
+        "clue": "Wrinkly dogs",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        8
+      ],
+      "intersects": false
+    },
+    {
+      "word": "TORI",
+      "originalTerm": "TORI",
+      "nBoxes": 4,
+      "x": 6,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 6,
+      "clue": {
+        "date": 0,
+        "clue": "\"Cornflake Girl\" singer __ Amos",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "AVEC",
+      "originalTerm": "AVEC",
+      "nBoxes": 4,
+      "x": 7,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 7,
+      "clue": {
+        "date": 0,
+        "clue": "With, on le menu",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "MENA",
+      "originalTerm": "MENA",
+      "nBoxes": 4,
+      "x": 8,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 8,
+      "clue": {
+        "date": 0,
+        "clue": "Suvari of \"American Pie\"",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "PRAVDA",
+      "originalTerm": "PRAVDA",
+      "nBoxes": 6,
+      "x": 9,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 9,
+      "clue": {
+        "date": 0,
+        "clue": "Soviet newspaper",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        6
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ECONOCAR",
+      "originalTerm": "ECONOCAR",
+      "nBoxes": 8,
+      "x": 11,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 10,
+      "clue": {
+        "date": 0,
+        "clue": "Affordable ride",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        8
+      ],
+      "intersects": false
+    },
+    {
+      "word": "NATUREHIKE",
+      "originalTerm": "NATUREHIKE",
+      "nBoxes": 10,
+      "x": 12,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 11,
+      "clue": {
+        "date": 0,
+        "clue": "Enjoying-the-great-outdoors walk",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        10
+      ],
+      "intersects": false
+    },
+    {
+      "word": "OBIES",
+      "originalTerm": "OBIES",
+      "nBoxes": 5,
+      "x": 13,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 12,
+      "clue": {
+        "date": 0,
+        "clue": "Stage awards",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "SOS",
+      "originalTerm": "SOS",
+      "nBoxes": 3,
+      "x": 14,
+      "y": 0,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 13,
+      "clue": {
+        "date": 0,
+        "clue": "Shipwreck signal",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        3
+      ],
+      "intersects": false
+    },
+    {
+      "word": "TOTE",
+      "originalTerm": "TOTE",
+      "nBoxes": 4,
+      "x": 4,
+      "y": 3,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 21,
+      "clue": {
+        "date": 0,
+        "clue": "Trade show giveaway",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "EONS",
+      "originalTerm": "EONS",
+      "nBoxes": 4,
+      "x": 10,
+      "y": 3,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 22,
+      "clue": {
+        "date": 0,
+        "clue": "Very long periods",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "FELT",
+      "originalTerm": "FELT",
+      "nBoxes": 4,
+      "x": 0,
+      "y": 5,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 25,
+      "clue": {
+        "date": 0,
+        "clue": "Pool table surface",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "REAR",
+      "originalTerm": "REAR",
+      "nBoxes": 4,
+      "x": 1,
+      "y": 5,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 26,
+      "clue": {
+        "date": 0,
+        "clue": "Raise, as kids",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "OOZEDCHARM",
+      "originalTerm": "OOZEDCHARM",
+      "nBoxes": 10,
+      "x": 2,
+      "y": 5,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 27,
+      "clue": {
+        "date": 0,
+        "clue": "Was a bit too enchanting",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        10
+      ],
+      "intersects": false
+    },
+    {
+      "word": "NEWME",
+      "originalTerm": "NEWME",
+      "nBoxes": 5,
+      "x": 6,
+      "y": 5,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 28,
+      "clue": {
+        "date": 0,
+        "clue": "Self-transformation result, to the self",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "TIEIN",
+      "originalTerm": "TIEIN",
+      "nBoxes": 5,
+      "x": 7,
+      "y": 5,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 29,
+      "clue": {
+        "date": 0,
+        "clue": "Advertising link",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ROALD",
+      "originalTerm": "ROALD",
+      "nBoxes": 5,
+      "x": 8,
+      "y": 5,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 30,
+      "clue": {
+        "date": 0,
+        "clue": "Wonka creator Dahl",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "IDIE",
+      "originalTerm": "IDIE",
+      "nBoxes": 4,
+      "x": 13,
+      "y": 6,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 34,
+      "clue": {
+        "date": 0,
+        "clue": "Romeo\u0027s last words",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "BENT",
+      "originalTerm": "BENT",
+      "nBoxes": 4,
+      "x": 14,
+      "y": 6,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 35,
+      "clue": {
+        "date": 0,
+        "clue": "Like a paper clip",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "EYETESTS",
+      "originalTerm": "EYETESTS",
+      "nBoxes": 8,
+      "x": 3,
+      "y": 7,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 37,
+      "clue": {
+        "date": 0,
+        "clue": "Optometrists\u0027 exams",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        8
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ROSINESS",
+      "originalTerm": "ROSINESS",
+      "nBoxes": 8,
+      "x": 9,
+      "y": 7,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 39,
+      "clue": {
+        "date": 0,
+        "clue": "Optimistic quality",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        8
+      ],
+      "intersects": false
+    },
+    {
+      "word": "SAIL",
+      "originalTerm": "SAIL",
+      "nBoxes": 4,
+      "x": 4,
+      "y": 8,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 42,
+      "clue": {
+        "date": 0,
+        "clue": "Travel with the wind",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "STOP",
+      "originalTerm": "STOP",
+      "nBoxes": 4,
+      "x": 10,
+      "y": 8,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 44,
+      "clue": {
+        "date": 0,
+        "clue": "Cease",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "DITTOS",
+      "originalTerm": "DITTOS",
+      "nBoxes": 6,
+      "x": 5,
+      "y": 9,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 47,
+      "clue": {
+        "date": 0,
+        "clue": "Same-as-above marks",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        6
+      ],
+      "intersects": false
+    },
+    {
+      "word": "RULERS",
+      "originalTerm": "RULERS",
+      "nBoxes": 6,
+      "x": 11,
+      "y": 9,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 48,
+      "clue": {
+        "date": 0,
+        "clue": "Classroom tools",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        6
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ASDOI",
+      "originalTerm": "ASDOI",
+      "nBoxes": 5,
+      "x": 1,
+      "y": 10,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 49,
+      "clue": {
+        "date": 0,
+        "clue": "\"Me too!\"",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        5
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ERAT",
+      "originalTerm": "ERAT",
+      "nBoxes": 4,
+      "x": 6,
+      "y": 11,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 52,
+      "clue": {
+        "date": 0,
+        "clue": "The \"E\" in Q.E.D.",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "RISE",
+      "originalTerm": "RISE",
+      "nBoxes": 4,
+      "x": 7,
+      "y": 11,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 53,
+      "clue": {
+        "date": 0,
+        "clue": "Get up",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ITEM",
+      "originalTerm": "ITEM",
+      "nBoxes": 4,
+      "x": 8,
+      "y": 11,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 54,
+      "clue": {
+        "date": 0,
+        "clue": "Part of a shopping list",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "AGEE",
+      "originalTerm": "AGEE",
+      "nBoxes": 4,
+      "x": 12,
+      "y": 11,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 55,
+      "clue": {
+        "date": 0,
+        "clue": "\"A Death in the Family\" author James",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "COAX",
+      "originalTerm": "COAX",
+      "nBoxes": 4,
+      "x": 13,
+      "y": 11,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 56,
+      "clue": {
+        "date": 0,
+        "clue": "Gently persuade",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "ESPY",
+      "originalTerm": "ESPY",
+      "nBoxes": 4,
+      "x": 14,
+      "y": 11,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 57,
+      "clue": {
+        "date": 0,
+        "clue": "Athlete\u0027s award",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        4
+      ],
+      "intersects": false
+    },
+    {
+      "word": "PTA",
+      "originalTerm": "PTA",
+      "nBoxes": 3,
+      "x": 0,
+      "y": 12,
+      "acrossNotDown": false,
+      "direction": "S",
+      "clueSection": "Down",
+      "clueNum": 58,
+      "clue": {
+        "date": 0,
+        "clue": "School fundraising gp.",
+        "fullSentenceLowerCase": ""
+      },
+      "wordLens": [
+        3
+      ],
+      "intersects": false
+    }
+  ],
+  "cellInfos": [
+    {
+      "x": 4,
+      "y": 5,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 7,
+      "y": 9,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "isCircled": true,
+      "rightWall": false,
+      "bottomWall": false,
+      "displayRightWallShort": false,
+      "displayBottomWallShort": false,
+      "isVoid": false
+    }
+  ]
+}

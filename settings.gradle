@@ -1,0 +1,2 @@
+rootProject.name = "Crossword puzzle"
+include ':demo', ':library'
