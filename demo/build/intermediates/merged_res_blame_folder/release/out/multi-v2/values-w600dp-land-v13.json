@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Abanoob Projects 2022\\bob\\ararat-master\\demo\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+            "outputFile": "G:\\New Sources\\crossword-puzzle-main\\demo\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\bob\\.gradle\\caches\\transforms-3\\27efab55ef5f64df288c3fae5c56ddf3\\transformed\\material-1.4.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "source": "C:\\Users\\abano\\.gradle\\caches\\transforms-3\\27efab55ef5f64df288c3fae5c56ddf3\\transformed\\material-1.4.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

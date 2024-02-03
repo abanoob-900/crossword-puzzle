@@ -1,4 +1,4 @@
-#Thu Feb 01 10:26:58 EET 2024
-base.0=D\:\\Abanoob Projects 2022\\bob\\ararat-master\\demo\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+#Sat Feb 03 12:36:47 EET 2024
+base.0=G\:\\New Sources\\crossword-puzzle-main\\demo\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
