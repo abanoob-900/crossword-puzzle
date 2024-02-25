@@ -1,4 +1,4 @@
-#Sat Feb 03 12:36:48 EET 2024
-base.0=G\:\\New Sources\\crossword-puzzle-main\\demo\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Sun Feb 25 11:26:56 EET 2024
+base.0=D\:\\Abanoob Projects 2022\\bob\\crossword-puzzle-main\\demo\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

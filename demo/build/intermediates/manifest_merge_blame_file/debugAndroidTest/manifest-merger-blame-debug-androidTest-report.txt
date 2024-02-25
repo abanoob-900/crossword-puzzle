@@ -3,30 +3,30 @@
 3    package="com.mobeasyapp.app527982594435.test" >
 4
 5    <uses-sdk
-5-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:5:5-74
+5-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:5:5-74
 6        android:minSdkVersion="19"
-6-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:5:15-41
+6-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:5:15-41
 7        android:targetSdkVersion="33" />
-7-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:5:42-71
+7-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:5:42-71
 8
 9    <instrumentation
-9-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:11:5-15:80
+9-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:11:5-15:80
 10        android:name="android.test.InstrumentationTestRunner"
-10-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:11:22-75
+10-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:11:22-75
 11        android:functionalTest="false"
-11-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:14:22-52
+11-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:14:22-52
 12        android:handleProfiling="false"
-12-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:13:22-53
+12-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:13:22-53
 13        android:label="Tests for com.mobeasyapp.app527982594435"
-13-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:15:22-78
+13-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:15:22-78
 14        android:targetPackage="com.mobeasyapp.app527982594435" />
-14-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:12:22-76
+14-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:12:22-76
 15
 16    <application android:debuggable="true" >
-16-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:7:5-9:19
+16-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:7:5-9:19
 17        <uses-library android:name="android.test.runner" />
-17-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:8:9-60
-17-->G:\New Sources\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest12747185225814536938.xml:8:23-57
+17-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:8:9-60
+17-->D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\build\intermediates\tmp\manifest\androidTest\debug\tempFile1ProcessTestManifest8500935920408157980.xml:8:23-57
 18    </application>
 19
 20</manifest>

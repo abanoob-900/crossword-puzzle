@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:1-39
-INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:1-39
-INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:1-39
+ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:1-39
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:1-39
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:1-39
 	package
-		ADDED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:11-36
-		INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
-		INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:11-36
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:1-39
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml:1:1-39
 uses-sdk
-INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
-INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
-INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
-INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
-		ADDED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
-		INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
-		ADDED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
-		INJECTED from G:\New Sources\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\src\main\AndroidManifest.xml

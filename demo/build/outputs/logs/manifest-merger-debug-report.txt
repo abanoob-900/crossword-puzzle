@@ -1,200 +1,200 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
-MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\be7d49622b239a87fbc0d6102f9a7bb8\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.material:material:1.4.0] C:\Users\abano\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
-MERGED from [:library] G:\New Sources\crossword-puzzle-main\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\4b2436997ea783094b31f33e4612681e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\8fc5a555b9171090b4a5932ad74967fe\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\99675edc3ab0027f9dde2995deb313dd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\8e6d8c0f210010ce94164a0d47f49bff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\abano\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\925616bab116315d3ba74f8d9c77c393\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\abano\.gradle\caches\transforms-3\0a3a45bfb31ff30219f8315c7330bff3\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\abano\.gradle\caches\transforms-3\d6ffc6fe72411257123e7f9abef1d6bd\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\abano\.gradle\caches\transforms-3\208570cd98abc110c4b54e9107541bba\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\9b5d1adad2a0c41615f083c34de391f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\13457cc4be8145fdcbfd9db43369b1fe\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\5b225052273225e39ed76b77a7c2f443\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\48a676c4561e075c7500c5522541b557\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\bdd5ec58c82c364ef24fbbb2ba433c24\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\7b2fcfcbc94be35f268e0918ebb6b75d\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\83e98f7cd7f27890b62701001a7e8458\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\5bc58bb550b941dffad0710911dc58cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\d1c28553c4d7e3a92b26484360c81587\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\4cda49aea4ecf5eec31b42826cd48228\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\70352549101f2f327d83d06a9752ead5\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\242ae474dadb4292ca62ac3a5cbe6cab\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\862b9c4c89f32a5d7474a80b6cec6670\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\efadc741888e83b6538bf403ef304b3a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\19b92ed98535c673f8ed48973dd57a12\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.5.0] C:\Users\abano\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\f594c3c6db7865aa3111f0b54f1a38b2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abano\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\8e00ee998623066ea0b02a9aa59690d2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\6df7ea8605cc739a5063ed421cad86ec\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\1e46f6e4ae4c4169816f2a6bc39ace95\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\e1b99483f4ed9f85ce54b96addeede6d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\abano\.gradle\caches\transforms-3\4eca9fd16d0619c849895b7f87fa81ff\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\abano\.gradle\caches\transforms-3\ccd30f6212a757a4c1af4797b6682a4f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\fb6bc72d0f5f70f270809490a4969c40\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\abano\.gradle\caches\transforms-3\c675934ef4c4f1f2d60b4f9d26c1b9a3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\abano\.gradle\caches\transforms-3\6866f2e6bd7f2e10a7bb199f336ad057\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\abano\.gradle\caches\transforms-3\bc76ebca9e0766c8940fa787ab492a92\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\b2095dd36605efd23e9c7eb9c62682f8\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\be7d49622b239a87fbc0d6102f9a7bb8\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bob\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:library] D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\4b2436997ea783094b31f33e4612681e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\8fc5a555b9171090b4a5932ad74967fe\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\99675edc3ab0027f9dde2995deb313dd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\8e6d8c0f210010ce94164a0d47f49bff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\bob\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\925616bab116315d3ba74f8d9c77c393\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bob\.gradle\caches\transforms-3\0a3a45bfb31ff30219f8315c7330bff3\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\bob\.gradle\caches\transforms-3\d6ffc6fe72411257123e7f9abef1d6bd\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\bob\.gradle\caches\transforms-3\208570cd98abc110c4b54e9107541bba\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\9b5d1adad2a0c41615f083c34de391f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\13457cc4be8145fdcbfd9db43369b1fe\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\5b225052273225e39ed76b77a7c2f443\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\48a676c4561e075c7500c5522541b557\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\bdd5ec58c82c364ef24fbbb2ba433c24\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\7b2fcfcbc94be35f268e0918ebb6b75d\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\83e98f7cd7f27890b62701001a7e8458\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\5bc58bb550b941dffad0710911dc58cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\d1c28553c4d7e3a92b26484360c81587\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\4cda49aea4ecf5eec31b42826cd48228\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\70352549101f2f327d83d06a9752ead5\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\242ae474dadb4292ca62ac3a5cbe6cab\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\862b9c4c89f32a5d7474a80b6cec6670\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\efadc741888e83b6538bf403ef304b3a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\19b92ed98535c673f8ed48973dd57a12\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\bob\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\f594c3c6db7865aa3111f0b54f1a38b2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bob\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\8e00ee998623066ea0b02a9aa59690d2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\6df7ea8605cc739a5063ed421cad86ec\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\1e46f6e4ae4c4169816f2a6bc39ace95\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\e1b99483f4ed9f85ce54b96addeede6d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\bob\.gradle\caches\transforms-3\4eca9fd16d0619c849895b7f87fa81ff\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\bob\.gradle\caches\transforms-3\ccd30f6212a757a4c1af4797b6682a4f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\fb6bc72d0f5f70f270809490a4969c40\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bob\.gradle\caches\transforms-3\c675934ef4c4f1f2d60b4f9d26c1b9a3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\bob\.gradle\caches\transforms-3\6866f2e6bd7f2e10a7bb199f336ad057\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\bob\.gradle\caches\transforms-3\bc76ebca9e0766c8940fa787ab492a92\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\b2095dd36605efd23e9c7eb9c62682f8\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:11-43
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:11-43
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:3:11-69
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:3:11-69
 application
-ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:5:5-20:19
-MERGED from [com.google.android.material:material:1.4.0] C:\Users\abano\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.4.0] C:\Users\abano\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\abano\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\abano\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.5.0] C:\Users\abano\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.5.0] C:\Users\abano\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abano\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abano\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bob\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bob\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\bob\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\bob\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\bob\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\bob\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bob\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bob\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.5.0] C:\Users\abano\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.5.0] C:\Users\bob\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:9:9-35
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:7:9-48
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:7:9-48
 	android:allowBackup
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:10:9-40
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:10:9-40
 activity#org.akop.crosswordtest.MainActivity
-ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:11:9-19:20
+ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:11:9-19:20
 	android:windowSoftInputMode
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:13:13-55
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:13:13-55
 	android:exported
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:14:13-36
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:12:13-41
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:12:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:15:13-18:29
+ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:15:13-18:29
 action#android.intent.action.MAIN
-ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:16:17-68
+ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:16:17-68
 	android:name
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:16:25-66
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:17:17-76
+ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:17:27-74
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\be7d49622b239a87fbc0d6102f9a7bb8\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\be7d49622b239a87fbc0d6102f9a7bb8\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.4.0] C:\Users\abano\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.4.0] C:\Users\abano\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
-MERGED from [:library] G:\New Sources\crossword-puzzle-main\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:library] G:\New Sources\crossword-puzzle-main\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\4b2436997ea783094b31f33e4612681e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\4b2436997ea783094b31f33e4612681e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\8fc5a555b9171090b4a5932ad74967fe\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\8fc5a555b9171090b4a5932ad74967fe\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\99675edc3ab0027f9dde2995deb313dd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\99675edc3ab0027f9dde2995deb313dd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\8e6d8c0f210010ce94164a0d47f49bff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\8e6d8c0f210010ce94164a0d47f49bff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\abano\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\abano\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\925616bab116315d3ba74f8d9c77c393\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\925616bab116315d3ba74f8d9c77c393\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\abano\.gradle\caches\transforms-3\0a3a45bfb31ff30219f8315c7330bff3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] C:\Users\abano\.gradle\caches\transforms-3\0a3a45bfb31ff30219f8315c7330bff3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\abano\.gradle\caches\transforms-3\d6ffc6fe72411257123e7f9abef1d6bd\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\abano\.gradle\caches\transforms-3\d6ffc6fe72411257123e7f9abef1d6bd\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\abano\.gradle\caches\transforms-3\208570cd98abc110c4b54e9107541bba\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\abano\.gradle\caches\transforms-3\208570cd98abc110c4b54e9107541bba\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\9b5d1adad2a0c41615f083c34de391f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\9b5d1adad2a0c41615f083c34de391f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\13457cc4be8145fdcbfd9db43369b1fe\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\13457cc4be8145fdcbfd9db43369b1fe\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\5b225052273225e39ed76b77a7c2f443\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\5b225052273225e39ed76b77a7c2f443\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.media:media:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\48a676c4561e075c7500c5522541b557\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\48a676c4561e075c7500c5522541b557\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\bdd5ec58c82c364ef24fbbb2ba433c24\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\bdd5ec58c82c364ef24fbbb2ba433c24\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\7b2fcfcbc94be35f268e0918ebb6b75d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\7b2fcfcbc94be35f268e0918ebb6b75d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\83e98f7cd7f27890b62701001a7e8458\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\83e98f7cd7f27890b62701001a7e8458\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\5bc58bb550b941dffad0710911dc58cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\abano\.gradle\caches\transforms-3\5bc58bb550b941dffad0710911dc58cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\d1c28553c4d7e3a92b26484360c81587\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\d1c28553c4d7e3a92b26484360c81587\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\4cda49aea4ecf5eec31b42826cd48228\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\4cda49aea4ecf5eec31b42826cd48228\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\70352549101f2f327d83d06a9752ead5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\70352549101f2f327d83d06a9752ead5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\242ae474dadb4292ca62ac3a5cbe6cab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\242ae474dadb4292ca62ac3a5cbe6cab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\862b9c4c89f32a5d7474a80b6cec6670\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\862b9c4c89f32a5d7474a80b6cec6670\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\efadc741888e83b6538bf403ef304b3a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\efadc741888e83b6538bf403ef304b3a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\19b92ed98535c673f8ed48973dd57a12\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\19b92ed98535c673f8ed48973dd57a12\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.5.0] C:\Users\abano\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.5.0] C:\Users\abano\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\f594c3c6db7865aa3111f0b54f1a38b2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\f594c3c6db7865aa3111f0b54f1a38b2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abano\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\abano\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\8e00ee998623066ea0b02a9aa59690d2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\8e00ee998623066ea0b02a9aa59690d2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\6df7ea8605cc739a5063ed421cad86ec\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\6df7ea8605cc739a5063ed421cad86ec\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\1e46f6e4ae4c4169816f2a6bc39ace95\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\1e46f6e4ae4c4169816f2a6bc39ace95\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\e1b99483f4ed9f85ce54b96addeede6d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\e1b99483f4ed9f85ce54b96addeede6d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\abano\.gradle\caches\transforms-3\4eca9fd16d0619c849895b7f87fa81ff\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\abano\.gradle\caches\transforms-3\4eca9fd16d0619c849895b7f87fa81ff\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\abano\.gradle\caches\transforms-3\ccd30f6212a757a4c1af4797b6682a4f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\abano\.gradle\caches\transforms-3\ccd30f6212a757a4c1af4797b6682a4f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\fb6bc72d0f5f70f270809490a4969c40\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\fb6bc72d0f5f70f270809490a4969c40\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\abano\.gradle\caches\transforms-3\c675934ef4c4f1f2d60b4f9d26c1b9a3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\abano\.gradle\caches\transforms-3\c675934ef4c4f1f2d60b4f9d26c1b9a3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\abano\.gradle\caches\transforms-3\6866f2e6bd7f2e10a7bb199f336ad057\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\abano\.gradle\caches\transforms-3\6866f2e6bd7f2e10a7bb199f336ad057\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\abano\.gradle\caches\transforms-3\bc76ebca9e0766c8940fa787ab492a92\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\abano\.gradle\caches\transforms-3\bc76ebca9e0766c8940fa787ab492a92\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\b2095dd36605efd23e9c7eb9c62682f8\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\abano\.gradle\caches\transforms-3\b2095dd36605efd23e9c7eb9c62682f8\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\be7d49622b239a87fbc0d6102f9a7bb8\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\be7d49622b239a87fbc0d6102f9a7bb8\transformed\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bob\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\bob\.gradle\caches\transforms-3\27efab55ef5f64df288c3fae5c56ddf3\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [:library] D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:library] D:\Abanoob Projects 2022\bob\crossword-puzzle-main\library\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\4b2436997ea783094b31f33e4612681e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\4b2436997ea783094b31f33e4612681e\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\8fc5a555b9171090b4a5932ad74967fe\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\8fc5a555b9171090b4a5932ad74967fe\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\99675edc3ab0027f9dde2995deb313dd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\99675edc3ab0027f9dde2995deb313dd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\8e6d8c0f210010ce94164a0d47f49bff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\8e6d8c0f210010ce94164a0d47f49bff\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\bob\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\bob\.gradle\caches\transforms-3\c66cc5171053c499d3198655549d6770\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\925616bab116315d3ba74f8d9c77c393\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\925616bab116315d3ba74f8d9c77c393\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bob\.gradle\caches\transforms-3\0a3a45bfb31ff30219f8315c7330bff3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\bob\.gradle\caches\transforms-3\0a3a45bfb31ff30219f8315c7330bff3\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\bob\.gradle\caches\transforms-3\d6ffc6fe72411257123e7f9abef1d6bd\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\bob\.gradle\caches\transforms-3\d6ffc6fe72411257123e7f9abef1d6bd\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\bob\.gradle\caches\transforms-3\208570cd98abc110c4b54e9107541bba\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\bob\.gradle\caches\transforms-3\208570cd98abc110c4b54e9107541bba\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\9b5d1adad2a0c41615f083c34de391f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\9b5d1adad2a0c41615f083c34de391f2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\13457cc4be8145fdcbfd9db43369b1fe\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\13457cc4be8145fdcbfd9db43369b1fe\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\5b225052273225e39ed76b77a7c2f443\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\5b225052273225e39ed76b77a7c2f443\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\48a676c4561e075c7500c5522541b557\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\48a676c4561e075c7500c5522541b557\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\bdd5ec58c82c364ef24fbbb2ba433c24\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\bdd5ec58c82c364ef24fbbb2ba433c24\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\7b2fcfcbc94be35f268e0918ebb6b75d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\7b2fcfcbc94be35f268e0918ebb6b75d\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\83e98f7cd7f27890b62701001a7e8458\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\83e98f7cd7f27890b62701001a7e8458\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\5bc58bb550b941dffad0710911dc58cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\bob\.gradle\caches\transforms-3\5bc58bb550b941dffad0710911dc58cf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\d1c28553c4d7e3a92b26484360c81587\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\d1c28553c4d7e3a92b26484360c81587\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\4cda49aea4ecf5eec31b42826cd48228\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\4cda49aea4ecf5eec31b42826cd48228\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\70352549101f2f327d83d06a9752ead5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\70352549101f2f327d83d06a9752ead5\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\242ae474dadb4292ca62ac3a5cbe6cab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\242ae474dadb4292ca62ac3a5cbe6cab\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\862b9c4c89f32a5d7474a80b6cec6670\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\862b9c4c89f32a5d7474a80b6cec6670\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\efadc741888e83b6538bf403ef304b3a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\efadc741888e83b6538bf403ef304b3a\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\19b92ed98535c673f8ed48973dd57a12\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\19b92ed98535c673f8ed48973dd57a12\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\bob\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\bob\.gradle\caches\transforms-3\a1b869055a0949573a23ac5bd0bce82e\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\f594c3c6db7865aa3111f0b54f1a38b2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\f594c3c6db7865aa3111f0b54f1a38b2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bob\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\bob\.gradle\caches\transforms-3\d9d1cae7c8ff869103380f0ecba10db6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\8e00ee998623066ea0b02a9aa59690d2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\8e00ee998623066ea0b02a9aa59690d2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\6df7ea8605cc739a5063ed421cad86ec\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\6df7ea8605cc739a5063ed421cad86ec\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\1e46f6e4ae4c4169816f2a6bc39ace95\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\1e46f6e4ae4c4169816f2a6bc39ace95\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\e1b99483f4ed9f85ce54b96addeede6d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\e1b99483f4ed9f85ce54b96addeede6d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\bob\.gradle\caches\transforms-3\4eca9fd16d0619c849895b7f87fa81ff\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\bob\.gradle\caches\transforms-3\4eca9fd16d0619c849895b7f87fa81ff\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\bob\.gradle\caches\transforms-3\ccd30f6212a757a4c1af4797b6682a4f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\bob\.gradle\caches\transforms-3\ccd30f6212a757a4c1af4797b6682a4f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\fb6bc72d0f5f70f270809490a4969c40\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\fb6bc72d0f5f70f270809490a4969c40\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bob\.gradle\caches\transforms-3\c675934ef4c4f1f2d60b4f9d26c1b9a3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\bob\.gradle\caches\transforms-3\c675934ef4c4f1f2d60b4f9d26c1b9a3\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\bob\.gradle\caches\transforms-3\6866f2e6bd7f2e10a7bb199f336ad057\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\bob\.gradle\caches\transforms-3\6866f2e6bd7f2e10a7bb199f336ad057\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\bob\.gradle\caches\transforms-3\bc76ebca9e0766c8940fa787ab492a92\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\bob\.gradle\caches\transforms-3\bc76ebca9e0766c8940fa787ab492a92\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\b2095dd36605efd23e9c7eb9c62682f8\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\bob\.gradle\caches\transforms-3\b2095dd36605efd23e9c7eb9c62682f8\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-		ADDED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
-		INJECTED from G:\New Sources\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		ADDED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
+		INJECTED from D:\Abanoob Projects 2022\bob\crossword-puzzle-main\demo\src\main\AndroidManifest.xml
